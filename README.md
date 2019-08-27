@@ -51,11 +51,11 @@ auto_assets [Flutter项目根目录]
 
 执行命令后，资源文件夹内所有的变动都会自动更新到自动生成的代码上。
 
-# 样例
+# 5. 样例
 
 参考 [yuedu_login_sample](https://g.hz.netease.com/wc-flutter/yuedu_login_sample);
 
-# 5. 资源规范
+# 6. 资源规范
 
 1. 使用文件夹分割不同模块，例：登录模块 `login`，通用模块 `common`。
 2. 资源命名**严格**遵守 [snake_case](https://en.wikipedia.org/wiki/Snake_case)：使用下挂线分割不同单词。
@@ -74,7 +74,7 @@ shelf/management/2x/icon_select.png
 shelf/management/3x/icon_select.png
 ````
 
-# 6. TODO
+# 7. TODO
 
 1. 同一个资源的不同变体必须要有同一种文件后缀。
 2. 校验 resolution path 的位置对不对，2x 3x 应该是在倒数第二个 path 节点上。

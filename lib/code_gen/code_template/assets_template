@@ -1,0 +1,4 @@
+class Assets {
+  Assets._();
+  __CODE_TEMPLATE_CONTENTS_REPLACEMENT__
+}

@@ -1,0 +1,6 @@
+__CODE_TEMPLATE_IMPORTS_REPLACEMENT__
+
+class AssetImages {
+  AssetImages._();
+  __CODE_TEMPLATE_CONTENTS_REPLACEMENT__
+}

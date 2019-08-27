@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "program": "${workspaceFolder}/bin/assets",
-      "args": ["/Users/mumu/Code/Flutter/login_sample"]
+      "args": ["/Users/mumu/Code/Flutter/login_sample", "-v"]
     }
   ]
 }

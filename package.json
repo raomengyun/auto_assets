@@ -1,5 +1,5 @@
 {
-  "name": "assets",
+  "name": "auto_assets",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,5 +12,5 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15"
   },
-  "bin": "bin/assets"
+  "bin": "bin/auto_assets"
 }

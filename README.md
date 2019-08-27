@@ -6,9 +6,9 @@
 
 ## 实施
 
-1. 自动监听资源文件夹，自动生成 assets 声明并插入 pubspec.yaml 文件中
-2. 自动压缩图片资源，png/jpg 等。
-3. 使用类来声明并且引用图片资源，例如：
+1. 自动监听资源文件夹，自动生成 assets 声明并插入 pubspec.yaml 文件中.
+2. 自动压缩图片资源。
+3. 使用类型来声明并且引用图片资源，例如：
    ````dart
    class AssetImages {
       AssetImages._();

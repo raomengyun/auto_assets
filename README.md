@@ -51,6 +51,10 @@ auto_assets [Flutter项目根目录]
 
 执行命令后，资源文件夹内所有的变动都会自动更新到自动生成的代码上。
 
+# 样例
+
+参考 [yuedu_login_sample](https://g.hz.netease.com/wc-flutter/yuedu_login_sample);
+
 # 5. 资源规范
 
 1. 使用文件夹分割不同模块，例：登录模块 `login`，通用模块 `common`。

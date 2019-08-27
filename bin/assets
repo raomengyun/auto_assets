@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require("../lib/assets.js");
+require("../lib/cli.js");

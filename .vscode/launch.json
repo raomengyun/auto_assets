@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/bin/assets",
+      "program": "${workspaceFolder}/bin/auto_assets",
       "args": ["/Users/mumu/Code/Flutter/login_sample", "-v"]
     }
   ]

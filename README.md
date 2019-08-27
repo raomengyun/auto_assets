@@ -34,3 +34,4 @@
 
 1. 同一个资源的不同变体必须要有同一种文件后缀。
 2. 校验 resolution path 的位置对不对，2x 3x 应该是在倒数第二个 path 节点上。
+3. 重名排除，例如 `a/b/c.png` 与 `a/b_c.png` 会生成重名 identifier

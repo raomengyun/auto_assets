@@ -46,7 +46,7 @@
 auto_assets [Flutter项目根目录]
 ```
 
-## VSCode 插件
+## 3.3. VSCode 插件
 
 1. 在 VSCode -> Extensions 下搜索 `auto_assets` 并安装。
 2. 重新打开项目。

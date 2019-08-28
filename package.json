@@ -1,7 +1,7 @@
 {
   "name": "auto_assets",
   "version": "1.0.0",
-  "main": "lib/auto_assets/assets.js",
+  "main": "lib/auto_assets.js",
   "license": "MIT",
   "dependencies": {
     "chokidar": "^3.0.2",

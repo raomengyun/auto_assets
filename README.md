@@ -12,7 +12,12 @@
    ```dart
    class Assets {
       Assets._();
-      static const String get commonIconClose => "assets/common/icon_close.png";
+      static const String commonIconClose = "assets/common/icon_close.png";
+   }
+
+   class AssetImages {
+      AssetImages._();
+      static AssetImage get commonIconClose => const AssetImage(Assets.commonIconClose);
    }
    ```
 

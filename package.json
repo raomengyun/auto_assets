@@ -1,6 +1,6 @@
 {
   "name": "auto_assets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/auto_assets.js",
   "license": "MIT",
   "dependencies": {

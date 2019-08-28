@@ -1,6 +1,6 @@
 {
   "name": "auto_assets",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/auto_assets.js",
   "license": "MIT",
   "dependencies": {
@@ -14,5 +14,11 @@
   },
   "bin": "bin/auto_assets",
   "homepage": "https://github.com/raomengyun/auto_assets",
-  "repository": "https://github.com/raomengyun/auto_assets.git"
+  "repository": "https://github.com/raomengyun/auto_assets.git",
+  "keywords": [
+    "flutter",
+    "assets",
+    "cli",
+    "assets-managemenet"
+  ]
 }
